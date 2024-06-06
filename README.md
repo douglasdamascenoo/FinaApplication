@@ -41,7 +41,7 @@ dotnet add reference ..\Fina.Core\
 cd .\Fina.App\
 dotnet add reference ..\Fina.Core\
 ```
-
+10. Banco de Dados e Migrations.
 > Adicionando o pacote do Entity Framework (SqlServer) à API.
 ```
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
